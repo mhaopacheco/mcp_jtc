@@ -1,0 +1,16 @@
+{
+  "name": "sap-adt-mcp-server",
+  "version": "2026.11.03",
+  "description": "MCP Server para conectar Claude con SAP via ADT API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.0",
+    "zod": "^4.4.3"
+  }
+}

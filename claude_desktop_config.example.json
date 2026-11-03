@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sap-adt": {
+      "command": "node",
+      "args": ["C:\\MCP\\mcp_jtc\\index.js"]
+    }
+  }
+}

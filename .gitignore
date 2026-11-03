@@ -1,0 +1,10 @@
+# Credenciales locales - NUNCA subir
+.env
+.env.*
+!.env.example
+
+node_modules/
+*.bak*
+_to_delete/
+debug-*.xml
+*.log
